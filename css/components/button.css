@@ -1,0 +1,16 @@
+.btn {
+  display: inline-block;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-rounded {
+  background-color: #33c260;
+  border-radius: 50px;
+  font-weight: 500;
+  color: white;
+  padding: 16px 24px;
+}
+
+.btn-rounded:hover {
+  background-color: #14d44e;
+}

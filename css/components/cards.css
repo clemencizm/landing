@@ -1,0 +1,25 @@
+.card {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, .2);
+  margin-top: 32px;
+  margin-bottom: 20px;
+}
+
+.card-vertical {
+  display: flex;
+  flex-direction: column;
+  width: 24%;
+  height: 250px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px;
+  text-align: center;
+}
+
+.card-vertical img {
+  width: 130px;
+}
+
+.card-vertical p {
+  line-height: 1.3em;
+  color: rgb(54, 54, 54);
+}

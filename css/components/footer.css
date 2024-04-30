@@ -1,0 +1,25 @@
+#footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 72px 16px;
+}
+
+#footer ul li {display: inline-block;}
+
+#footer i:not(.fa-heart) {
+  color: #33c260;
+  font-size: 1.8rem;
+  margin-bottom: 32px;
+}
+
+#footer p {
+  color: #939393;
+}
+
+#footer p i {
+  color: #bf0f12;
+}

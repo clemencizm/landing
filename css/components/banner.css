@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(/landing/images/background.png);
+  background-position: center;
+  background-size: cover;
+  height: 76vh;
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 72px;
+}
+
+.banner h1, .banner .l {
+  margin-bottom: 26px;
+}
+
+.banner .l {
+  color: rgb(188, 188, 188);
+}
